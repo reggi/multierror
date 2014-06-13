@@ -1,0 +1,8 @@
+{
+  "name": "multierror",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Thomas Reggi",
+  "license": "ISC"
+}
